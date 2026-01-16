@@ -9,7 +9,7 @@ Make MKV Converter es una aplicación gráfica diseñada para convertir archivos
 ## ✨ Características
 
 - **Interfaz de Arrastrar y Soltar**: Simplemente arrastra archivos de video a la ventana de la aplicación
-- **Optimizado para DaVinci Resolve**: Genera MKV con audio PCM (16 bits, 48kHz, estéreo)
+- **Optimizado para Video Profesional**: Genera MKV con audio PCM (16 bits, 48kHz, estéreo)
 - **Sin Pérdida de Calidad**: El flujo de video se copia sin recodificar
 - **Salida Configurable**: Elige directorios de salida personalizados
 
