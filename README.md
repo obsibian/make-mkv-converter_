@@ -2,7 +2,7 @@
 
 Make MKV Converter es una aplicación gráfica diseñada para convertir archivos de video al formato MKV con codificación de audio PCM, específicamente optimizada para edición de video y trabajo de audio profesional.
 
-<img width="582" height="539" alt="makewa" src="https://github.com/user-attachments/assets/091c082b-03da-4e55-908c-aa82342cceb2" />
+<img width="582" height="509" alt="makemkv" src="https://github.com/user-attachments/assets/6209bc30-0139-4ca1-94ef-6b0342c40270" />
 
 ---
 
